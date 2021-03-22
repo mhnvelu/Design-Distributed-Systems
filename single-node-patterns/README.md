@@ -50,4 +50,4 @@ namespaces**.
 
 ### Adding HTTPS to a Legacy Service
 
-[!HTTPS Sidecar](Sidecar-HTTPS.JPG)
+![HTTPS Sidecar](Sidecar-HTTPS.JPG)
