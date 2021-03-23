@@ -30,3 +30,4 @@ machine into a group of containers.
 Single Node Patterns are listed below:
 
 - [Sidecar](side-car/README.md)
+- [Ambassador](ambassadors/README.md)
