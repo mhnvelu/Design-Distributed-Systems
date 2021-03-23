@@ -26,8 +26,8 @@ https://github.com/brendandburns/designing-distributed-systems
 - Using containers and container orchestration as a foundation, we can establish a collection of patterns and reusable components. These patterns and components are a toolkit that we can use to build our systems more reliably
   and efficiently.
 
-  ## Patterns
+## Patterns
 
-  The different patterns are listed below:
+The different patterns are listed below:
 
-  - [Single Node Pattern](single-node-patterns/README.md)
+- [Single Node Pattern](single-node-patterns/README.md)
